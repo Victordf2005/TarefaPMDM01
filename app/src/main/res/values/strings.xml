@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarefa01</string>
+    <string name="editar_mensaje">Teclea o teu ano de nacemento</string>
+    <string name="boton_enviar">Enviar</string>
+</resources>
